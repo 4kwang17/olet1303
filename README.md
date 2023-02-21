@@ -11,6 +11,10 @@ each section will have reminder for myself on my left university work (for alarm
 # brief initial plan
 Website name: Time's up!
 
+single page web application for now
+backend - django / layout index
+frontend - vanilla javascript css (bootstrap) plain html
+
 pops up - for the laziest people on universe like me who doesn't move an inch if not alerted
 
 TITLE
@@ -21,7 +25,7 @@ BLOCK [ + ] -> pops up [day month year [ + ]] -> pops up [day month year [ - ]] 
 
 # add-ons & personal challenge
 most source of knowledge on building this web applcation is from info1110 & cs50w
-I have to study django, python, html, css, javascript and how to make most out of them
+I have to study bootstrap, django, python, html, css, javascript and how to make most out of them
 
 this block and calendar has to be interactive with each other so i have to study more
 on date module of the language I will be using
